@@ -226,7 +226,7 @@ h6{
     text-align: center;
     margin-bottom: 30px;
     background-repeat: no-repeat;
-    background-image: url(blog/1.jpg);
+    background-image: url(1.jpg);
 }
 .bananer h4{
     color: white;
@@ -277,12 +277,12 @@ h6{
     height: 60vh;
     margin-top: 50px;
     background-position: center;    
-    background-image: url(girls/pexels-photo-3772506.jpeg);
+    background-image: url(pexels-photo-3772506.jpeg);
     margin-bottom: 30px;
     background-repeat: no-repeat;
 }
 .banner-box2 {
-    background-image: url(girls/pexels-photo-4380970.webp);
+    background-image: url(pexels-photo-4380970.webp);
 }
 .banner-box h1{
     font-size: 2rem;
@@ -330,7 +330,7 @@ h6{
     /* width: 100%; */
     margin-top: 20px;
     background-position: center;    
-    background-image: url(banner/2.jpg);
+    background-image: url(2.jpg);
     margin-bottom: 30px;
     background-repeat: no-repeat;
 }
@@ -350,10 +350,10 @@ h6{
     letter-spacing: 1px;
 }
 .banner-box9{
-    background-image: url(girls/pexels-photo-10484489.jpeg);
+    background-image: url(pexels-photo-10484489.jpeg);
 }
 .banner-box8{
-    background-image: url(girls/pexels-photo-5885994.webp);
+    background-image: url(pexels-photo-5885994.webp);
 }
 .letter{
     background-color: rgb(50, 50, 255);
@@ -445,7 +445,7 @@ h6{
                    
 
 .page-header{
-    background-image: url(banner/2.jpg);
+    background-image: url(2.jpg);
     width: 100%;
     height: 70vh;
     display: flex;
